@@ -1,5 +1,4 @@
 # Quiz_RM
-Plik "Baza" zawiera pytania z egzaminów na rzeczoznawcę majątkowego. 
+Quiz obejmuje ponad 5 tys. pytań z testów na rzeczoznawcę majątkowego z lat 2016-2024.
 Pytania zostały pobrane ze strony https://www.gov.pl/web/rozwoj-technologia/jak-zostac-rzeczoznawca-majatkowym. 
-W pliku znajduje sie ponad 5 tys. pytań z testów z lat 2016-2024. 
-Plik "Quiz" to strona internetowa w formie quizu. Może być pomocna w powtórce materiału do egzaminu.
+Strona może być pomocny w powtórce materiału do egzaminu.
